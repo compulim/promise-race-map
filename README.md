@@ -1,5 +1,7 @@
 # promise-race-map
 
+[![npm version](https://badge.fury.io/js/promise-race-map.svg)](https://badge.fury.io/js/promise-race-map) [![Build Status](https://travis-ci.org/compulim/promise-race-map.svg?branch=master)](https://travis-ci.org/compulim/promise-race-map) [![Coverage Status](https://coveralls.io/repos/github/compulim/promise-race-map/badge.svg)](https://coveralls.io/github/compulim/promise-race-map)
+
 A [`Promise.race`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/race) implementation that works with JavaScript map.
 
 ## Background
