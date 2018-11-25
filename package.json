@@ -28,6 +28,9 @@
     "collectCoverage": true,
     "coverageReporters": ["lcov", "text-summary"]
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "@babel/cli": "^7.1.5",
     "@babel/core": "^7.1.6",
