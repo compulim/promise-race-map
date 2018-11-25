@@ -29,7 +29,8 @@
     "coverageReporters": [
       "lcov",
       "text-summary"
-    ]
+    ],
+    "testEnvironment": "node"
   },
   "publishConfig": {
     "access": "public"
