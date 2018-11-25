@@ -1,6 +1,6 @@
 {
   "name": "promise-race-map",
-  "version": "0.0.0-0",
+  "version": "1.0.0",
   "description": "Promise.race on a JavaScript map",
   "main": "lib/index.js",
   "scripts": {
@@ -26,7 +26,10 @@
   "homepage": "https://github.com/compulim/promise-race-map#readme",
   "jest": {
     "collectCoverage": true,
-    "coverageReporters": ["lcov", "text-summary"]
+    "coverageReporters": [
+      "lcov",
+      "text-summary"
+    ]
   },
   "publishConfig": {
     "access": "public"
