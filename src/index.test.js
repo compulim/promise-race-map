@@ -1,3 +1,4 @@
+import 'regenerator-runtime/runtime';
 import racePromiseMap from './index';
 
 test('should resolve as first of two resolving promises', async () => {
