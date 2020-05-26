@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- Bump dependencies, in PR [#XXX](https://github.com/compulim/promise-race-map/pull/XXX)
+- Bump dependencies, in PR [#4](https://github.com/compulim/promise-race-map/pull/4)
    - [`@babel/cli@7.8.4`](https://npmjs.com/package/@babel/cli)
    - [`@babel/core@7.9.6`](https://npmjs.com/package/@babel/core)
    - [`@babel/plugin-proposal-object-rest-spread@7.9.6`](https://npmjs.com/package/@babel/plugin-proposal-object-rest-spread)
